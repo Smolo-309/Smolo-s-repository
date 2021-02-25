@@ -1,1 +1,2 @@
 print("Mare")
+print("Smolo")
